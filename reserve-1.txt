@@ -1,0 +1,10 @@
+Reserve ID: 1
+Datetime: 2023-12-06 20:58:17
+Table ID: 4
+Reserve Date: 2023-12-07
+Reserve_time: 10:00:00
+
+Dishes:
+Dry Chili Chicken: 1 x RM15.00 = RM15.00
+
+Total: RM15.00

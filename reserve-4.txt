@@ -1,0 +1,10 @@
+Reserve ID: 4
+Datetime: 2023-12-06 21:08:10
+Table ID: 7
+Reserve Date: 2023-12-07
+Reserve_time: 10:00:00
+
+Dishes:
+Fu Rong Egg: 1 x RM8.00 = RM8.00
+
+Total: RM8.00

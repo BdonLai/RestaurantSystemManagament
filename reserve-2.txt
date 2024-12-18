@@ -1,0 +1,10 @@
+Reserve ID: 2
+Datetime: 2023-12-06 21:03:46
+Table ID: 5
+Reserve Date: 2023-12-07
+Reserve_time: 10:00:00
+
+Dishes:
+Black Pepper Chicken: 1 x RM15.00 = RM15.00
+
+Total: RM15.00

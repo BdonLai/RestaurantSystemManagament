@@ -1,0 +1,8 @@
+Order ID: 1
+Datetime: 2023-12-06 21:00:49
+Table ID: 1
+
+Dishes:
+Dry Chili Chicken: 1 x RM15.00 = RM15.00
+
+Total: RM15.00
